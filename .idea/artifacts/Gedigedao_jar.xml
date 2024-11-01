@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gedigedao:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gedigedao_jar</output-path>
+    <root id="archive" name="Gedigedao.jar">
+      <element id="module-output" name="Gedigedao" />
+    </root>
+  </artifact>
+</component>
